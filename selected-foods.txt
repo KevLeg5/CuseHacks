@@ -1,0 +1,1 @@
+['Apples', 'Lettuce', 'Peanut Butter', 'Paper Towel']
